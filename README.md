@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is my Github for personal projects, I'm currently a student at Concordia University
+
 <!--
 **rcm-projects/rcm-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
