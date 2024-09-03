@@ -1,5 +1,7 @@
 ## Hi there, I'm Rory Connor 👋
 
+<p>This is my Github for personal projects, I'm currently a student in Computer Science at <a href="https://www.concordia.ca">Concordia University.</a></p>
+
 <table>
   <tr>
     <td style="border: 2px solid #000000; padding: 5px;">
@@ -9,7 +11,7 @@
 </table>
 
 
-<p>This is my Github for personal projects, I'm currently a student in Computer Science at <a href="https://www.concordia.ca">Concordia University.</a></p>
+
 
 
 ---
